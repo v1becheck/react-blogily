@@ -1,4 +1,6 @@
-# Small Atomic blog filled with data from @faker npm package
+# Small Atomic Blog 
+
+Filled with data from @faker npm package
 
 ## Table of contents
 

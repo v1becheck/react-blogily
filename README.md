@@ -7,7 +7,8 @@ Filled with data from @faker npm package
 - fake dark mode using filter: invert(100%)
 - Context API
 - A custom provider and hook
-- memoization using memo for Archive component (App-memo.js)
+- Memoization using memo for Archive component (App-memo.js)
+- Memoization using useMemo for archiveOptions values (App-memo.js)
 
 ## Deployed
 

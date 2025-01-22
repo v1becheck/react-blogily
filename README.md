@@ -1,4 +1,6 @@
-# Small Atomic blog filled with data from @faker npm package
+# Small Atomic Blog
+
+Filled with data from @faker npm package
 
 ## Table of contents
 
@@ -6,3 +8,7 @@
 - Context API
 - A custom provider and hook
 - memoization using memo for Archive component (App-memo.js)
+
+## Deployed
+
+https://react-blogily.vercel.app/

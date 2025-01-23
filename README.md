@@ -9,6 +9,7 @@ Filled with data from @faker npm package
 - A custom provider and hook
 - Memoization using memo for Archive component (App-memo.js)
 - Memoization using useMemo for archiveOptions values (App-memo.js)
+- Memoization using useCallback for handleAddPost (App-memo.js)
 
 ## Deployed
 
